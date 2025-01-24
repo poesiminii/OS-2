@@ -11,7 +11,7 @@
 #define MAX_LINE_LENGTH 80
 
 void fcfs(int numprocs);
-void rr(num_processors);
+void rr(int num_processors);
 void rr_aff(int num_processors);
 
 #define PROC_NEW	0
